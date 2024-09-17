@@ -1,0 +1,23 @@
+name: data
+channels:
+  - defaults
+dependencies:
+  - numpy=1.21.5            # Compatible version with other packages
+  - pandas=1.3.5            # Updated version for compatibility
+  - matplotlib=3.4.3        # Updated for compatibility
+  - pip=22.3                # Updated pip version
+  - python=3.7              # Use the latest 3.7.x version
+  - python-dateutil=2.8.2   # Compatible with updated packages
+  - pytz=2021.3             # Updated version
+  - scikit-learn=0.24.2     # Compatible with updated numpy and scipy
+  - scipy=1.7.3             # Updated for compatibility with numpy
+  - statsmodels=0.12.2      # Updated version
+  - xlrd=2.0.1              # Updated for better compatibility
+  - openpyxl=3.0.9          # Latest stable version
+  - lxml=4.6.3              # Updated to a stable version
+  - html5lib=1.1            # Latest stable version
+  - beautifulsoup4=4.10.0   # Updated to a more recent version
+  - jupyter=1.0.0           # No change needed
+  - pip:
+    - pmdarima==2.0.1
+prefix: C:\Anaconda3\envs\Re_Learn_Data_science
