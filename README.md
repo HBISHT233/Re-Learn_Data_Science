@@ -35,7 +35,3 @@ Over time, it's natural for skills to dull if they're not put to use regularly. 
 ## Contribution:
 
 If you have suggestions, improvements, or additional resources that would benefit others in their re-learning journey, feel free to contribute by submitting a pull request or opening an issue. Let's re-learn together!
-
----
-
-Feel free to adjust any part based on your vision for the repository!
